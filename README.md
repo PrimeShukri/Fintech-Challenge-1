@@ -4,18 +4,17 @@
 
 * What is the name of the company?
 
-The domain I have chosen is Payments/Billing. I am researching about a company named
-
-Global Payments Inc. (Known as GPN on the NYSE). GPN is a Fortune 500 company and a member of the S&P 500 with worldwide reach spanning over 170 countries throughout North America, Europe, Asia Pacific, and Latin America. This company is headquartered in Georgia with nearly 24,000 team members worldwide. It is a leading entity within the domain of payment it’s technology delivers innovative software and services to its customers.
+The name of the company I am writing about is Global Payments Inc. (Known as GPN on the NYSE). GPN is a Fortune 500 company and a member of the S&P 500 with worldwide reach spanning over 170 countries throughout North America, Europe, Asia Pacific, and Latin America. This company is headquartered in Georgia with nearly 24,000 team members worldwide. It is a leading entity within the domain of payment it’s technology delivers innovative software and services to its customers.
 
 * When was the company incorporated?
 
 The company was first incorporated in 1996.
 
 * Who are the founders of the company?
-
+* Global Payments Inc. was founded in 1967 by four entrepreneurs - Ralph "RJ" Dangelmaier, Robert "Bob" O. Jones, David R. Lovejoy, and B. H. "Bernie" Arogeti. 
 
 * How did the idea for the company (or project) come about?
+* At the time, the Global Payment Inc company was known as National Data Corporation (NDC) and focused primarily on providing data processing services to the healthcare industry. Over the years, NDC expanded into other industries, including payment processing, and changed its name to Global Payments Inc. in 2001 to reflect its growing focus on the payment processing industry. Today, Global Payments Inc. is a leading provider of payment technology and software solutions, serving businesses of all sizes in over 100 countries around the world.
 
 
 * How is the company funded? How much funding have they received?
