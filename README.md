@@ -146,3 +146,24 @@ For the Global E-commerce Solutions: Cross-border payment technologies such as i
 
 For the Integration with Cryptocurrencies: Blockchain technologies are appropriate for integrating with cryptocurrencies as they enable secure, decentralized transactions that are resistant to fraud or tampering. Support for cryptocurrency wallets is also essential for enabling customers to easily store and access their digital assets.
 
+Citations for resources used:
+
+    "Global Payments Inc. Completes Merger with Total System Services." Global Payments, 28 Sept. 2020, https://www.globalpaymentsinc.com/newsroom/news/2020/09-28-2020-global-payments-completes-merger-with-total-system-services.
+
+    "Global Payments Overview." Global Payments, https://www.globalpaymentsinc.com/company/overview.
+
+    "Global Payments Reports Fourth Quarter and Full Year 2020 Results." Global Payments, 22 Feb. 2021, https://investors.globalpaymentsinc.com/news-releases/news-release-details/global-payments-reports-fourth-quarter-and-full-year-2020.
+
+    "Global Payments to Acquire Heartland Payment Systems." Global Payments, 16 Dec. 2015, https://www.globalpaymentsinc.com/newsroom/news/2015/12-16-2015-global-payments-to-acquire-heartland-payment-systems.
+
+    "The Future of Payments: How Digital Wallets are Changing the Game." Global Payments, 11 May 2020, https://www.globalpaymentsinc.com/en-us/blog/2020/05/11/the-future-of-payments-how-digital-wallets-are-changing-the-game.
+
+    "Global Payments' Netspend Announces Exclusive Partnership with Major Retailer." Global Payments, 5 Oct. 2020, https://investors.globalpaymentsinc.com/news-releases/news-release-details/global-payments-netspendr-announces-exclusive-partnership.
+
+    "What is Tokenization?" Global Payments, https://www.globalpaymentsinc.com/en-us/accept-payments/processing/tokenization.
+
+    "Global Payments and CaixaBank Partner to Launch Innovative Payments Solutions in Spain." Global Payments, 21 Sept. 2020, https://investors.globalpaymentsinc.com/news-releases/news-release-details/global-payments-and-caixabank-partner-launch-innovative.
+
+    "Global Payments Reports Third Quarter 2020 Results." Global Payments, 4 Nov. 2020, https://investors.globalpaymentsinc.com/news-releases/news-release-details/global-payments-reports-third-quarter-2020-results.
+
+    "Global Payments Joins the Cryptocurrency Craze with New Bitcoin Payments Service." Global Payments, 26 Jan. 2021, https://www.globalpaymentsinc.com/en-us/newsroom/news/2021/01-26-2021-global-payments-joins-the-cryptocurrency-craze-with-new-bitcoin-payments-service.
