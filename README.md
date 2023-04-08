@@ -146,7 +146,7 @@ For the Global E-commerce Solutions: Cross-border payment technologies such as i
 
 For the Integration with Cryptocurrencies: Blockchain technologies are appropriate for integrating with cryptocurrencies as they enable secure, decentralized transactions that are resistant to fraud or tampering. Support for cryptocurrency wallets is also essential for enabling customers to easily store and access their digital assets.
 
-#Citations for resources used:
+## Citations for resources used:
 
 "Global Payments Inc. Completes Merger with Total System Services." Global Payments, 28 Sept. 2020, https://www.globalpaymentsinc.com/newsroom/news/2020/09-28-2020-global-payments-completes-merger-with-total-system-services.
 
